@@ -1,0 +1,41 @@
+.otst{
+	margin:-2px;
+}
+
+#a{
+	width: 100px;
+	height: 100px;
+	background: green;
+	display: inline-block;
+}
+#b{
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	display: inline-block;
+}
+#c{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	display: inline-block;
+}
+
+.position{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top:344px;
+} 
+#s{
+	background: green;
+}
+#sq{
+	background: yellow;
+	margin:70px;
+}
+#squ{
+	background: blue;
+	margin:140px;
+}
+
